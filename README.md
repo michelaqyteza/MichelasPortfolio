@@ -13,12 +13,6 @@ In the portfolio I put 4 sections to look at
 * Contact Information 
 
 
----
-## About Me
-![image](MichelasPortfolio/Assets/img/aboutmescreenshot.png)
-
-
-
 
 
 
