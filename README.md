@@ -1,4 +1,4 @@
-# MichelasPortfolio
+# Michelas Portfolio
 
 ## General Information 
 Hi, im Michela Qyteza! I am currently studying at Northwestern Connecticut Community College. 
