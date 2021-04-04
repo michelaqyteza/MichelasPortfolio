@@ -35,10 +35,11 @@ At the footer on my website you will see the contact page where you can find my 
 
 ---
 ## Location 
+Visit my portfolio website here: [
 
 ---
-## GitHub 
-
+## GitHub
+Visit my GitHub page! https://github.com/michelaqyteza
 
 
 
