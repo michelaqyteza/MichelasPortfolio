@@ -35,7 +35,7 @@ At the footer on my website you will see the contact page where you can find my 
 
 ---
 ## Location 
-Visit my portfolio website here: [Portfolio](https://github.com/michelaqyteza/MichelasPortfolio/blob/main/index-1.html)
+Visit my portfolio website here: [Portfolio](https://michelaqyteza.github.io/MichelasPortfolio/)
 
 ---
 ## GitHub
