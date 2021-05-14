@@ -42,8 +42,8 @@ Visit my portfolio website here! https://michelaqyteza.github.io/MichelasPortfol
 Visit my GitHub page! https://github.com/michelaqyteza
 
 ---
-## Linked Inn
-
+## Linked In
+Visit my LinkedIn page! https://www.linkedin.com/in/michela-qyteza-705154207/
 ---
 
 
